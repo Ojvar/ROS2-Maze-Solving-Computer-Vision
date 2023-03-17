@@ -1,18 +1,13 @@
 # Maze Solving using Computer Vision In ROS2
 
-[![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/cover.png)](https://youtu.be/Ejl4ZLKo3Cc "Click to Watch Intro Video on Youtube")
+[![alt text](https://github.com/DoganK01/ROS2-Maze-Solving-Computer-Vision/blob/main/images/cover.png)](https://www.youtube.com/watch?v=9tBLMEUyUMw "Click to Watch Intro Video on Youtube")
 ## Repository contents
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#About-this-Repository">🤝Repository's About</a></li>
-    <li><a href="#Using-this-Repository">⚡ Using this Repository</a></li>
     <li><a href="#Features">⛲Features</a></li>
     <li><a href="#Pre-Course-Requirments">🧊Pre-Course Requirments</a></li>
-    <li><a href="#Notes">📗 Notes</a></li>
-    <li><a href="#Instructors">👤Instructors</a></li>
-    <li><a href="#Course-Coupon">💰Coupon</a></li>
-    <li><a href="#license">📝License</a></li>
   </ol>
 </details>
 
@@ -27,34 +22,23 @@ This course is focus on Maze Solving behavior of robot In a Simulation based on 
 - Path Planning
 
 From our robot to last computer vision Node ,we will create every thing from scratch . Python Object Oriented programming practices will be utilized for better development.
-## ⚡ Using this Repository
-----
-
-**Docker**:
-
- [![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/linux.png)](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/wiki/Docker-(Linux) "Follow the guide to setup docker on Linux")&nbsp;&nbsp;
- [![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/windows.png)](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/wiki/Docker-(Windows-10) "Follow the guide to setup docker on Windows 10")&nbsp;&nbsp;
-
-
-**Ubuntu-20.04**: 
-- Follow along the [Wiki](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/wiki/Ubuntu-20.04-Setup-Guide) guide to setup the project.
 
 
 
 ## ⛲ Features
 ---
 * **Custom Robot Integeration**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/robot_model.gif)<br/><br/>
+  - ![alt text](https://github.com/DoganK01/ROS2-Maze-Solving-Computer-Vision/blob/main/images/robot_model.gif)<br/><br/>
 * **Drive to Goal Nodes**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/nodes.gif)<br/><br/>
+  - ![alt text](https://github.com/DoganK01/ROS2-Maze-Solving-Computer-Vision/blob/main/images/nodes.gif)<br/><br/>
 * **Custom World Setup**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/world.gif)<br/><br/>
+  - ![alt text](https://github.com/DoganK01/ROS2-Maze-Solving-Computer-Vision/blob/main/images/world.gif)<br/><br/>
 * **Mapping**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/mapping.gif)<br/><br/>
+  - ![alt text](https://github.com/DoganK01/ROS2-Maze-Solving-Computer-Vision/blob/main/images/mapping.gif)<br/><br/>
 * **Path Planning**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/path_planning.gif)<br/><br/>
+  - ![alt text](https://github.com/DoganK01/ROS2-Maze-Solving-Computer-Vision/blob/main/images/path_planning.gif)<br/><br/>
 * **Maze Solving**<br/><br/>
-  - ![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/maze_solving.gif)<br/><br/>
+  - ![alt text](https://github.com/DoganK01/ROS2-Maze-Solving-Computer-Vision/blob/main/images/maze_solving.gif)<br/><br/>
 
 
 ## 🧊 Pre-Course Requirments:
