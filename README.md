@@ -7,7 +7,7 @@
   <ol>
     <li><a href="#About-this-Repository">🤝Repository's About</a></li>
     <li><a href="#Features">⛲Features</a></li>
-    <li><a href="#Pre-Course-Requirments">🧊Pre-Course Requirments</a></li>
+    <li><a href="#Requirments">🧊Requirments</a></li>
   </ol>
 </details>
 
@@ -41,7 +41,7 @@ From our robot to last computer vision Node ,we will create every thing from scr
   - ![alt text](https://github.com/DoganK01/ROS2-Maze-Solving-Computer-Vision/blob/main/images/maze_solving.gif)<br/><br/>
 
 
-## 🧊 Pre-Course Requirments:
+## 🧊 Requirments:
 ---
 - Ubuntu 20.04 (LTS)
 - ROS2 - Foxy Fitzroy
